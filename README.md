@@ -53,7 +53,11 @@ A browser-based academic prototype that explores driver drowsiness indicators us
 ## 🐍 Contribution Pac-Man
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fadhlulloh123/fadhlulloh123/output/github-contribution-grid-pacman.svg" alt="Pac-Man animation showing GitHub contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadhlulloh123/fadhlulloh123/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadhlulloh123/fadhlulloh123/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/fadhlulloh123/fadhlulloh123/output/pacman-contribution-graph.svg" alt="Pac-Man animation showing GitHub contributions" />
+  </picture>
 </p>
 
 ## 🤝 Let's Connect

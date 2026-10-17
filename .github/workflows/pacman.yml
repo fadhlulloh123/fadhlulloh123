@@ -12,14 +12,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake game from GitHub contribution grid
-        uses: Platane/snk/svg-only@v3
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: fadhlulloh123
-          outputs: |
-            dist/github-contribution-grid-pacman.svg
 
-      - name: Push generated SVG to output branch
+      - name: Push pacman assets to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
