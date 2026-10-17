@@ -22,6 +22,6 @@ A browser-based academic prototype that explores driver drowsiness indicators us
 
 ## Connect
 
-- GitHub: [fadhlulloh123](https://github.com/fadhlulloh123)
+- Instagram: [@_fadhhel](https://instagram.com/_fadhhel)
 
 ---
