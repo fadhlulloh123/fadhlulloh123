@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fadhlulloh123&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile view counter badge" />
+  <img src="https://komarev.com/ghpvc/?username=fadhlulloh123&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile view counter badge" />
   <img src="https://img.shields.io/github/followers/fadhlulloh123?label=Followers&style=for-the-badge&color=0ea5e9" alt="GitHub followers badge" />
 </p>
 
